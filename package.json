@@ -1,0 +1,18 @@
+{
+  "name": "memoriacolectivanode",
+  "version": "0.0.1",
+  "description": "Serviicios memoria solectiva",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "limite": "node index --limite=5000"
+  },
+  "author": "claudio vargas",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "yargs": "^17.1.1"
+  }
+}
